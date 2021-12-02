@@ -1,0 +1,133 @@
+body {
+  background-color: rgb(228, 219, 219);
+}
+
+.header {
+  background-color: white;
+  padding-top: 1px;
+  padding-bottom: 19px;
+  border-radius: 50px;
+}
+
+.background {
+  background-image: url(images/key.jpeg);
+  padding: 80px 40px;
+  color: #fff;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.header-text {
+  padding-left: 35px;
+  color: black;
+}
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 700px;
+  text-align: center;
+}
+
+.background .description {
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.flex {
+  display: flex;
+  color: rgb(100, 163, 196);
+  padding-top: 40px;
+}
+
+.about-us {
+  margin-right: 20px;
+}
+
+.message {
+  height: 30px;
+  width: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 25px;
+  background-color: rgb(91, 167, 225);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+
+.adjust {
+  text-align: center;
+}
+
+.input {
+  text-align: justify;
+  font-size: 12px;
+  word-spacing: -3px;
+  color: rgb(28, 27, 27);
+}
+
+.space-between {
+  justify-content: space-between;
+}
+
+.shape {
+  width: 300px;
+  color: black;
+  font-size: 13px;
+  word-spacing: 1px;
+}
+
+.button {
+  margin-top: 20px;
+  background-color: white;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  border: none;
+  cursor: pointer;
+  padding-left: 35px;
+  padding-right: 35px;
+}
+
+.shift-laptop {
+  width: 320px;
+}
+
+.sizes {
+  width: 250px;
+  margin-left: 55px;
+}
+
+.size {
+  background-color: rgb(255, 255, 255);
+  width: 150px;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.color {
+  color: black;
+  margin-top: -20px;
+}
+
+.quest {
+  width: 150px;
+}
+
+.fit {
+  font-size: 14px;
+  word-spacing: 1px;
+  align-content: center;
+}
+
+.paste {
+  color: black;
+  font-size: 11px;
+  word-spacing: 1px;
+  margin-top: -20px;
+  text-align: justify;
+  margin-right: 20px;
+}
